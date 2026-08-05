@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="AI-ready структура сайта">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#eef3fb"/><stop offset="100%" stop-color="#f7f9fc"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#315fe8"/><stop offset="100%" stop-color="#244ac2"/></linearGradient>
+  </defs>
+  <rect width="960" height="600" fill="url(#bg)"/>
+  <rect x="48" y="48" width="864" height="504" rx="20" fill="#fff" stroke="#d8e0ee"/>
+  <rect x="48" y="48" width="864" height="56" rx="20" fill="#f1f5fb"/>
+  <circle cx="84" cy="76" r="8" fill="#f87171"/><circle cx="110" cy="76" r="8" fill="#fbbf24"/><circle cx="136" cy="76" r="8" fill="#34d399"/>
+  <text x="180" y="82" font-family="system-ui,sans-serif" font-size="16" font-weight="700" fill="#172133">llms.txt · site knowledge</text>
+  <rect x="80" y="140" width="280" height="18" rx="6" fill="#315fe8" opacity=".9"/>
+  <rect x="80" y="176" width="360" height="12" rx="4" fill="#d8e0ee"/>
+  <rect x="80" y="200" width="300" height="12" rx="4" fill="#e8eef8"/>
+  <g font-family="ui-monospace,monospace" font-size="14" fill="#52627d">
+    <text x="80" y="260"># AI discovery</text>
+    <text x="80" y="290" fill="#315fe8">/llms.txt</text>
+    <text x="80" y="318">/agents.md</text>
+    <text x="80" y="346">/openapi.json</text>
+    <text x="80" y="374">schema.org/FAQPage</text>
+  </g>
+  <rect x="520" y="150" width="340" height="340" rx="16" fill="#f7f9fc" stroke="#d8e0ee"/>
+  <text x="548" y="190" font-family="system-ui,sans-serif" font-size="15" font-weight="700" fill="#172133">Что индексируют боты</text>
+  <rect x="548" y="220" width="24" height="24" rx="6" fill="#315fe8"/>
+  <text x="586" y="238" font-family="system-ui,sans-serif" font-size="14" fill="#52627d">Структура и FAQ</text>
+  <rect x="548" y="268" width="24" height="24" rx="6" fill="#315fe8"/>
+  <text x="586" y="286" font-family="system-ui,sans-serif" font-size="14" fill="#52627d">JSON-LD разметка</text>
+  <rect x="548" y="316" width="24" height="24" rx="6" fill="#315fe8"/>
+  <text x="586" y="334" font-family="system-ui,sans-serif" font-size="14" fill="#52627d">OpenAPI / agent.json</text>
+  <rect x="548" y="364" width="24" height="24" rx="6" fill="#315fe8"/>
+  <text x="586" y="382" font-family="system-ui,sans-serif" font-size="14" fill="#52627d">Чистый контент</text>
+  <rect x="548" y="420" width="200" height="36" rx="10" fill="url(#bar)"/>
+  <text x="580" y="444" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fff">AI-ready pack</text>
+</svg>

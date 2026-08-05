@@ -1,0 +1,13 @@
+# ai.txt — ai-ready.krivoshein.site
+# Full: https://ai-ready.krivoshein.site/llms.txt
+# Agents: https://ai-ready.krivoshein.site/agents.md
+# OpenAPI: https://ai-ready.krivoshein.site/openapi.json
+# agent.json: https://ai-ready.krivoshein.site/.well-known/agent.json
+# Hub: https://krivoshein.site/llms.txt
+# Contacts: https://krivoshein.site/contacts/
+# Telegram: https://t.me/DrSlon
+# MAX: https://max.ru/id770603253213_1_bot
+# Rate: 2000 RUB/h · contract · non-cash · RU/EN
+# Service: llms.txt, Schema.org, FAQ, technical SEO, интеграции для AI-ботов и нейропоиска.
+# Content-Signal: search=yes, ai-input=yes, ai-train=no, citationRequired=yes
+# Updated: 2026-08-05

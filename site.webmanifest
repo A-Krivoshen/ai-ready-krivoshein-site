@@ -1,0 +1,22 @@
+{
+  "name": "AI-ready | Кривошеин",
+  "short_name": "AI-ready",
+  "description": "Подготовка сайта к нейропоиску и AI-ассистентам: структура, Schema.org, FAQ, SEO и интеграции. Аудит от 10 000 ₽.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#5181fe",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png?v=20260716",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png?v=20260716",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
