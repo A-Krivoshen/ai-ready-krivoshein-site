@@ -1,5 +1,5 @@
 /* PWA service worker — https://ai-ready.krivoshein.site */
-var CACHE = 'krv-ai-ready-v1';
+var CACHE = 'krv-ai-ready-cro-20261114';
 var PRECACHE = [
   '/',
   '/privacy.html',
